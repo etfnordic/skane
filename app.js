@@ -15,7 +15,7 @@ import { TRIP_TO_LINE } from "./data/trip_to_line.js";
  *   - Färjor: blue
  */
 
-const API_URL = "https://metro.etfnordic.workers.dev";
+const API_URL = "https://skane-gtfsrt.etfnordic.workers.dev/api/vehicles";
 
 /* --- Poll + animation tuning --- */
 const POLL_MS = 3000;
